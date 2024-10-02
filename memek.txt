@@ -1,1 +1,7 @@
-apiissikma
+{
+  "users": [
+    {
+      "password": "apiis2024"
+    }
+  ]
+}
